@@ -1,4 +1,5 @@
 # freecell-solver
+Solver for FreeCell Solitaire
 
 # freecell_test.py:
 Run:
