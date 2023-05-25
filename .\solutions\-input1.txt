@@ -1,0 +1,207 @@
+206 
+freecell D13 
+freecell C2 
+foundation H1 
+tableau S4 D5 
+freecell H6 
+foundation C1 
+foundation C2 
+freecell S2 
+foundation C3 
+foundation C4 
+freecell C8 
+foundation C5 
+tableau H3 S4 
+tableau S2 H3 
+freecell C11 
+tableau S9 D10 
+tableau C8 H9 
+freecell D6 
+foundation S1 
+foundation S2 
+source H3 
+tableau S4 H5 
+tableau H3 S4 
+source D5 
+tableau D8 S9 
+tableau C11 D12 
+freecell D5 
+source C8 
+tableau H9 C10 
+source D8 
+tableau C8 H9 
+source S9 
+tableau D8 S9 
+source H13 
+tableau H11 C12 
+tableau D10 C11 
+tableau S12 H13 
+tableau H11 S12 
+tableau D8 C9 
+tableau H11 C12 
+tableau D10 S11 
+tableau S9 D10 
+source D5 
+freecell S9 
+tableau H11 S12 
+tableau D10 C11 
+tableau S9 D10 
+tableau D8 S9 
+freecell H11 
+tableau H11 C12 
+freecell H3 
+tableau H11 S12 
+tableau S4 D5 
+tableau H11 C12 
+tableau H3 S4 
+freecell H11 
+tableau D8 C9 
+tableau H11 S12 
+freecell S11 
+foundation C6 
+source D13 
+freecell H11 
+tableau D8 S9 
+tableau S12 D13 
+tableau H11 S12 
+freecell D8 
+tableau C12 H13 
+tableau D8 C9 
+freecell H3 
+tableau D8 S9 
+tableau S4 H5 
+tableau D8 C9 
+tableau H3 S4 
+freecell D8 
+tableau H11 C12 
+tableau D8 C9 
+freecell D5 
+source C8 
+tableau H11 S12 
+tableau D8 S9 
+tableau C8 H9 
+source C12 
+tableau H11 C12 
+tableau S12 H13 
+tableau H11 S12 
+tableau D8 C9 
+tableau C12 D13 
+source D6 
+freecell C8 
+tableau D8 S9 
+tableau H11 C12 
+tableau C8 H9 
+freecell D4 
+tableau S5 D6 
+tableau D4 S5 
+freecell C8 
+tableau H11 S12 
+tableau D8 C9 
+tableau H11 C12 
+tableau H9 S10 
+tableau D8 S9 
+tableau C10 H11 
+tableau C8 H9 
+freecell H3 
+tableau D8 C9 
+tableau D3 S4 
+foundation H2 
+foundation H3 
+freecell H12 
+tableau D8 S9 
+tableau H7 C8 
+source H12 
+tableau S11 H12 
+freecell D3 
+freecell S12 
+tableau D8 C9 
+tableau S12 H13 
+freecell S9 
+tableau D10 S11 
+tableau S9 D10 
+freecell S12 
+tableau D8 S9 
+tableau D3 S4 
+freecell C11 
+tableau S12 H13 
+freecell D3 
+tableau C11 D12 
+freecell S12 
+tableau D3 S4 
+tableau D8 C9 
+freecell D3 
+tableau S12 H13 
+freecell C10 
+tableau H11 S12 
+tableau C10 H11 
+freecell D8 
+tableau D8 S9 
+freecell C9 
+tableau D3 S4 
+freecell D2 
+tableau D9 C10 
+foundation D1 
+foundation D2 
+foundation H4 
+foundation D3 
+foundation D4 
+foundation D5 
+freecell D9 
+freecell S4 
+foundation H5 
+foundation H6 
+foundation H7 
+tableau D9 C10 
+freecell S8 
+freecell S5 
+foundation D6 
+tableau S8 D9 
+freecell D11 
+foundation D7 
+foundation H8 
+foundation C7 
+foundation S3 
+foundation S4 
+foundation S5 
+foundation C8 
+foundation C9 
+foundation H9 
+foundation D8 
+source D11 
+freecell S8 
+foundation D9 
+foundation C10 
+foundation C11 
+foundation C12 
+source S8 
+freecell H11 
+source H11 
+freecell S12 
+freecell S10 
+foundation C13 
+tableau S12 H13 
+freecell D11 
+tableau D11 S12 
+freecell S8 
+freecell S13 
+foundation S6 
+source S8 
+freecell D11 
+source D11 
+freecell S12 
+freecell D12 
+foundation S7 
+foundation S8 
+foundation H10 
+foundation H11 
+foundation S9 
+foundation S10 
+foundation D10 
+foundation D11 
+foundation D12 
+foundation D13 
+foundation S11 
+foundation S12 
+foundation S13 
+foundation H12 
+foundation H13 
